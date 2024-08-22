@@ -87,23 +87,17 @@ print(len(x_test))
 
 ![image](https://github.com/user-attachments/assets/4d7c82ad-5739-4fe5-bb7a-ed69dfac38fe)
 
-
 #### DROPPING THE UNWANTED DATASET:
 
 ![image](https://github.com/user-attachments/assets/515792e2-28c6-4bf6-ac4b-69adb3b4c35f)
-
-
 
 #### CHECKING NULL VALUES:
 
 ![image](https://github.com/user-attachments/assets/8d93499f-2a83-40dd-aa80-f7b8d3fe4672)
 
-
-
 #### CHECKING FOR DUPLICATION:
 
 ![image](https://github.com/user-attachments/assets/27d2e1b4-2263-42ab-a7fc-e48763362697)
-
 
 #### DESCRIBING THE DATASET:
 
@@ -113,25 +107,21 @@ print(len(x_test))
 
 ![image](https://github.com/user-attachments/assets/3384a557-4b4c-4a5d-936c-4b5547f6dd42)
 
-
 #### X FEATURES:
 
-![image](https://github.com/shalini-venkatesan/Ex-1-NN/assets/118720291/4b3e9f7d-55e4-44a5-8bb9-ed125d432489)
-
-
+![image](https://github.com/user-attachments/assets/360feb21-be30-4bc5-b1d4-7afe6d2687c4)
 
 #### Y FEATURES:
 
-![image](https://github.com/shalini-venkatesan/Ex-1-NN/assets/118720291/bc39d80f-f62a-40de-ba07-b62f072f214d)
-
+![image](https://github.com/user-attachments/assets/333fdee7-d153-47a9-93c0-189f05f6c7d7)
 
 
 #### SPLITTING THE TRAINING AND TESTING DATASET:
 
-![image](https://github.com/shalini-venkatesan/Ex-1-NN/assets/118720291/e6b3d5fe-a448-476f-8fd8-d81b35188612)
+![image](https://github.com/user-attachments/assets/04b05ee0-a8db-4b8f-b3b9-cfd22e6fe93c)
+
 
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
-
 
